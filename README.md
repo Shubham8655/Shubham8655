@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 👋 Hi, I’m Shubham vhatkar
+- 👀 I’m interested in Python, Data Structures , Ml , DL and NLP
+- 🌱 I’m currently learning python
+- 😄 Pronouns: He/Him
+- ⚡️ Fun fact: Cricket is my first Love
 <!--
 **Shubham8655/Shubham8655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
